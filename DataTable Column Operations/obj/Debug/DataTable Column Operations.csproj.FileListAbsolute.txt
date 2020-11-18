@@ -1,0 +1,5 @@
+C:\Users\dnigam\source\repos\DataTable Column Operations\DataTable Column Operations\bin\Debug\DataTable Column Operations.dll
+C:\Users\dnigam\source\repos\DataTable Column Operations\DataTable Column Operations\bin\Debug\DataTable Column Operations.pdb
+C:\Users\dnigam\source\repos\DataTable Column Operations\DataTable Column Operations\obj\Debug\DataTable Column Operations.csprojAssemblyReference.cache
+C:\Users\dnigam\source\repos\DataTable Column Operations\DataTable Column Operations\obj\Debug\DataTable Column Operations.dll
+C:\Users\dnigam\source\repos\DataTable Column Operations\DataTable Column Operations\obj\Debug\DataTable Column Operations.pdb
